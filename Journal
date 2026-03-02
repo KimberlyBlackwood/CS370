@@ -1,0 +1,33 @@
+
+CS 370 Module Eight Journal
+SNHU
+Kimberly Blackwood
+Professor Hawk
+February 23,2026
+
+Briefly explain the work that you did on this project: 
+1.What code were you given? What code did you create yourself?
+As an AI developer for a gaming company that is developing a treasure hunt game in which the players need to find the treasure before the pirate does,  I was tasked with the duty to  design an intelligent agent of the game for an NPC (non-player character) to represent the pirate world. This is made up of different pathways and obstacles  to find the treasure. I was provided with a starter code and a sample environment where my pirate was placed .I created a code for a deep Q-learning algorithm to train my pirate agent. 
+
+2. Connect your learning from throughout this course to the larger field of computer science:
+What do computer scientists do and why does it matter?
+A computer scientist is a scientist who specializes in academic study of computer science and technology. Below is a list of some of the things that a computer scientist does and why it matters.
+•	Hardware and Software design – they design advance systems , including AI, they collaborate on the creation of robotics This is done to develop technology for present and future advancement.
+•	Research and Elopement – they create new programming language, algorithms, and computational models. This is done to improve the operation of computers. This improves efficacy and streamline workflow.
+•	Problem Solving – they solve complex technical challenges, ensure data security, system integrity and efficacy of software.  This is done T\to protect digital infrastructure and improve quality of life.
+3.How do I approach a problem as a computer scientist?
+As a computer scientist solving a problem involves several steps. Understand the Problem is the first step to solving a problem as a computer scientist.  read and re-read the problem statement. I need to know what the input is and what is the expected output. I would then create a pseudocode which is a rough draft to the code. It will assist in outlining a solution that is easy to follow. This will help me to  structure my thoughts and prevent  getting lost in a maze of code. I would then break it down into smaller, solvable pieces. I would take on each part individually and then assemble them to solve the larger issue. Debugging is the next step, this is where testing, fixing code and eliminating issues takes place. I would then make sure to practice writing and fixing codes, I would challenge myself with coding puzzles and exercises. 
+
+4.What are my ethical responsibilities to the end user and the organization?
+
+My ethical responsibilities include the moral principles and values that governs the use and development of computer technology lets us know that it is important to ensure that it positively impact society while its being distributed fairly. The ethical responsibility to the end user and organization includes: 
+ 
+End User
+•	Data Protection and Privacy -  uphold the data protection regulation  created by GDPR and ensuring that data is not being misused and enforcing encryption.
+•	Bias Elimination and Fairness – continuously scan training data for inequality and clean models to prevent discrimination based on age, ,race, gender, and socioeconomic status.
+•	Transparency – create models that allow users access to the decision-making process by providing results that are easy to interpret.
+
+Organization
+•	Accountability – take responsivity of the AI outcomes and system failures.
+•	Data Sourcing – use data that is given with consent instead of those that are from public sources.
+•	Environmental Responsibility – when training and operating models they must be energy efficient to ensure a small carbon footprint.
